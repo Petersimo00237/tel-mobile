@@ -1,4 +1,4 @@
-const V = 'byte-v3'
+const V = 'byte-v4'
 const SHELL = [
   '/',
   '/offline.html',
